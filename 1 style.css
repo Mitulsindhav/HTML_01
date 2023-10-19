@@ -1,0 +1,24 @@
+
+
+.main{
+
+    width: 1000px;
+    height:400px;
+    background-color: red;
+    font-size: 100px;
+    color:white;
+    text-align: center;
+    font-family: verdana;
+
+
+
+}
+.main:hover{
+
+    height:300px;
+    color:black;
+    background-color: green ;
+     
+}     
+
+      
